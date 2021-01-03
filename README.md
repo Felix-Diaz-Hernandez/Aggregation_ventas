@@ -1,3 +1,3 @@
 # Aggregation_ventas
-·Proyecto Ventas.
-·Uso del metodo aggregation para procesar datos.
+* Uso del método aggregation.
+* ventas.js
